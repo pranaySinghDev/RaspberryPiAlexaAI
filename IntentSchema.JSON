@@ -1,0 +1,13 @@
+{
+    "intents": [
+        {
+            "intent": "LightsIntent",
+            "slots":[
+              {
+              "name" :"state",
+              "type": "AMAZON.State"
+            }
+            ]
+        }
+    ]
+}
