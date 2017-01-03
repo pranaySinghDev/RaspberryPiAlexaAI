@@ -1,0 +1,3 @@
+LightsIntent turn {state}
+LightsIntent turn lights {state}
+LightsIntent let there be light {state}
