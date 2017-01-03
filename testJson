@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.420e019d-56e8-40e3-85eb-8793e0335476",
+    "application": {
+      "applicationId": "amzn1.ask.skill.573fa160-d015-4f45-bfcf-e9bb85cb8592"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGHTTNTGFZ5EUNUKDKAA4JQB572QD3P6IRG6ANSPTG7TZ7FAVVHQ7MLYMSLVSFO3AI64VUJU7RBIBR2YTNYNB6M57WOMVREXNGJZUYA3FWWW2HPQJYLUH3ZPR6IIJYP2NY4TCVI6J5KJFLNSX4HM6CZN2JMYL4YJ2H6DRM5GW4EQ6ZJHXFLJOJQFQGCDYAPEWRMSO5TLFBL7TRY"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.c31aeda3-80db-46b0-a2a1-5c7bc5670053",
+    "locale": "en-US",
+    "timestamp": "2017-01-03T16:24:12Z",
+    "intent": {
+      "name": "LightsIntent",
+      "slots": {
+        "state": {
+          "name": "state",
+          "value": "on"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
